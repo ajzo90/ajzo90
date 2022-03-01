@@ -1,3 +1,27 @@
 ### Hey 👋, I'm Christian!
 
 I love building stuff, currently working as a **Software engineer and CTO** on a startup builing a data and machine learning platform. 
+
+I'm a generalist that can transform into a expert on a case by case manner. My background as a physicist make it natural for me to observe the surroundings from a mactroscopical level, but are always prepared to zoom in on a microscopical level. My strength relies in my dedication to dissecting a particular technical subject and later applying my broad set of skills and experience to implement it from the ground up.
+
+My professional expertise includes
+* building databases and data processing tools with focus on efficiency and flexibility, including things like parsing, query engine/execution, etl/elt pipelines, compression, storage, “profiler-driven-development”, assembly, ...
+* building products for startups (full stack). Good sense of how web related techniques works in isolation or as blocks in larger systems; backend, cli, api, networking, frontend, infrastructure, …
+
+Other interests of mine includes startups, open source, building global remote teams, tech & science, chess, running marathons and mentoring. 
+
+My favorite programming language is go. I have uses java, python, c, c++, c# and php with various degree of success and interest in the past. 
+My favorite data structures are arrays and binary heaps. 
+
+Some inspiring people and blogs I'm following and revisiting now and then
+* Daniel Lemire blogging about performance hacks and interesting CS stuff https://lemire.me/blog/
+* Andy Pavlo. Researcher and teacher at Carnegie Mellon University. Awesome database course material available. https://www.cs.cmu.edu/~pavlo/
+* http://erikdemaine.org/. Awesome course on advanced data structures and algorithms https://courses.csail.mit.edu/6.851/spring21/
+* Creel on youtube. Great assembly videos. https://www.youtube.com/c/WhatsACreel
+
+Good stuff from compression community
+* Overview / Forum https://encode.su/threads/2078-List-of-Asymmetric-Numeral-Systems-implementations. 
+* Fastcompression, Yann Collet's blog about compression, the inventor of lz4 and zstd. http://fastcompression.blogspot.com/ 
+* There is a lot of good stuff available on compression in general. Other influential people are Fabian Gleisen and Charles Bloom. 
+* Good blog post on arithmetic coders and rANS. https://kedartatwawadi.github.io/post--ANS/ 
+* The Alias Method for Sampling from Discrete Distribution http://pandasthumb.org/archives/2012/08/lab-notes-the-a.html
