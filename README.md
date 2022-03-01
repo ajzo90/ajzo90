@@ -16,6 +16,7 @@ Some inspiring people and blogs I'm following and revisiting now and then
 * Andy Pavlo. Researcher and teacher at Carnegie Mellon University. Awesome database course material available. https://www.cs.cmu.edu/~pavlo/
 * http://erikdemaine.org/. Awesome course on advanced data structures and algorithms https://courses.csail.mit.edu/6.851/spring21/
 * Creel on youtube. Great assembly videos. https://www.youtube.com/c/WhatsACreel
+* D. Richard Hipp, creator of sqlite. 
 
 Good stuff from compression community
 * Overview / Forum https://encode.su/threads/2078-List-of-Asymmetric-Numeral-Systems-implementations. 
