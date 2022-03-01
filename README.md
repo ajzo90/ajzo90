@@ -6,9 +6,7 @@ I'm a generalist that can transform into a expert on a case by case manner. My b
 
 My professional expertise includes
 * building databases and data processing tools with focus on efficiency and flexibility, including things like parsing, query engine/execution, etl/elt pipelines, compression, storage, “profiler-driven-development”, assembly, ...
-* building products for startups (full stack). Good sense of how web related techniques works in isolation or as blocks in larger systems; backend, cli, api, networking, frontend, infrastructure, …
-
-Other interests of mine includes startups, open source, building global remote teams, tech & science, chess, running marathons and mentoring. 
+* building products from idea to production (full stack). Good sense of how web related techniques works in isolation or as blocks in larger systems; backend, cli, api, networking, frontend, infrastructure, …
 
 My favorite programming language is go. I have uses java, python, c, c++, c# and php with various degree of success and interest in the past. 
 My favorite data structures are arrays and binary heaps. 
@@ -25,3 +23,5 @@ Good stuff from compression community
 * There is a lot of good stuff available on compression in general. Other influential people are Fabian Gleisen and Charles Bloom. 
 * Good blog post on arithmetic coders and rANS. https://kedartatwawadi.github.io/post--ANS/ 
 * The Alias Method for Sampling from Discrete Distribution http://pandasthumb.org/archives/2012/08/lab-notes-the-a.html
+
+Other interests of mine includes startups, open source, building global remote teams, tech & science, chess, running marathons and mentoring. 
