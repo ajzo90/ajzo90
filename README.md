@@ -1,12 +1,12 @@
 ### Hey 👋, I'm Christian!
 
-I love building stuff, currently working as a **Software engineer and CTO** on a startup builing a data and machine learning platform. 
+I love building stuff, currently working as a **Software engineer and CTO** on a startup, building a data and machine learning platform. 
 
-I'm a generalist that can transform into a expert on a case by case manner. My background as a physicist make it natural for me to observe the surroundings from a mactroscopical level, but are always prepared to zoom in on a microscopical level. My strength relies in my dedication to dissecting a particular subject and later applying my broad set of skills and experience to implement it from the ground up. 
+I'm a generalist that can transform into an expert on a case by case manner. My background as a physicist makes it natural for me to observe the surroundings from a macroscopic level, but I am always prepared to zoom in on a microscopic level. My strength relies on my dedication to dissecting a particular subject and later applying my broad set of skills and experience to implement it from the ground up. 
 
 My professional expertise and interests includes
 * building databases and data processing tools with focus on efficiency and flexibility, including things like parsing, query engine/execution, etl/elt pipelines, compression, storage, “profiler-driven-development”, assembly, ...
-* building products from idea to production (full stack). Good sense of how web related techniques works in isolation or as blocks in larger systems; backend, APIs,  networking, frontend, protocols, encoding, infrastructure, …
+* building products from idea to production (full stack). Good sense of how web related techniques work in isolation or as blocks in larger systems; backend, APIs,  networking, frontend, protocols, encoding, infrastructure, …
 
 My favorite programming language is go. I have uses java, python, c, c++, c# and php with various degree of success and interest in the past. 
 My favorite data structures are arrays and binary heaps. 
@@ -28,4 +28,4 @@ Other interests of mine includes startups, open source, building global remote t
 
 Do you have overlapping experience or interests, don't hesitate to ping me here or https://www.linkedin.com/in/christianpersson-/?locale=en_US
 
-I am also hiring developers to my company, Infobaleen. 
+I am also hiring developers for my company, Infobaleen. 
