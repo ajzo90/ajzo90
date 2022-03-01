@@ -25,3 +25,7 @@ Good stuff from compression community
 * The Alias Method for Sampling from Discrete Distribution http://pandasthumb.org/archives/2012/08/lab-notes-the-a.html
 
 Other interests of mine includes startups, open source, building global remote teams, tech & science, chess, running marathons and mentoring. 
+
+Do you have overlapping experience or interests, don't hesitate to ping me here or https://www.linkedin.com/in/christianpersson-/?locale=en_US
+
+I am also hiring developers to my company, Infobaleen. 
