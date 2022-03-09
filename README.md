@@ -30,3 +30,7 @@ Other interests of mine includes startups, open source, building global remote t
 Do you have overlapping experience or interests, don't hesitate to ping me here or https://www.linkedin.com/in/christianpersson-/?locale=en_US
 
 I am also hiring developers for my company, Infobaleen. 
+
+
+<a href="https://www.linkedin.com/in/christianpersson-/?locale=en_US" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="christian-persson" height="20" width="20"/></a>&nbsp;
+<img align="center" src="https://img.shields.io/github/stars/ajzo90?style=social" alt="christian-persson" height="20"/>
