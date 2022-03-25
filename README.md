@@ -8,8 +8,8 @@ My professional expertise and interests includes
 * building databases and data processing tools with focus on efficiency and flexibility, including things like parsing, query engine/execution, etl/elt pipelines, compression, storage, “profiler-driven-development”, assembly, ...
 * building products from idea to production (full stack). Good sense of how web related techniques work in isolation or as blocks in larger systems; backend, APIs,  networking, frontend, protocols, encoding, infrastructure, …
 
-My favorite programming language is go. I have uses java, python, c, c++, c# and php with various degree of success and interest in the past. 
-My favorite data structures are arrays and binary heaps. 
+My favorite programming language is go. Learning zig and rust. I have used java, python, c, c++, c# and php with various degree of success and interest in the past. 
+My favorite data structures are arrays and heaps and I find byte sequences to be a reasonable abstraction to work with.
 
 Some inspiring people and blogs I'm following and revisiting now and then
 * Daniel Lemire blogging about performance hacks and interesting CS stuff https://lemire.me/blog/
@@ -25,7 +25,7 @@ Good stuff from compression community
 * Good blog post on arithmetic coders and rANS. https://kedartatwawadi.github.io/post--ANS/ 
 * The Alias Method for Sampling from Discrete Distribution http://pandasthumb.org/archives/2012/08/lab-notes-the-a.html
 
-Other interests of mine includes startups, open source, building global remote teams, tech & science, chess, running marathons and mentoring. 
+Other interests of mine includes startups, open source, building remote teams, tech & science in general, chess, running marathons and mentoring. 
 
 Do you have overlapping experience or interests, don't hesitate to ping me here or https://www.linkedin.com/in/christianpersson-/?locale=en_US
 
