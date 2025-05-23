@@ -1,6 +1,6 @@
 ### Hey 👋, I'm Christian!
 
-I love building stuff, currently working as a **Software engineer and CTO** on a startup, building a data and machine learning platform. 
+I love building stuff, currently working on a startup, building a data and machine learning platform. 
 
 I'm a generalist that can transform into an expert on a case by case manner. My background as a physicist makes it natural for me to observe the surroundings from a macroscopic level, but I am always prepared to zoom in on a microscopic level. My strength relies on my dedication to dissecting a particular subject and later applying my broad set of skills and experience to implement it from the ground up. 
 
@@ -8,8 +8,7 @@ My professional expertise and interests includes
 * building databases and data processing tools with focus on efficiency and flexibility, including things like parsing, query engine/execution, etl/elt pipelines, compression, storage, “profiler-driven-development”, assembly, ...
 * building products from idea to production (full stack). Good sense of how web related techniques work in isolation or as blocks in larger systems; backend, APIs,  networking, frontend, protocols, encoding, infrastructure, …
 
-My favorite programming language is go. Learning zig and rust. I have used java, python, c, c++, c# and php with various degree of success and interest in the past. 
-My favorite data structures are arrays and heaps and I find byte sequences to be a reasonable abstraction to work with.
+My favorite programming language is go. Learning zig and rust.
 
 Some inspiring people and blogs I'm following and revisiting now and then
 * Daniel Lemire blogging about performance hacks and interesting CS stuff https://lemire.me/blog/
@@ -24,11 +23,3 @@ Good stuff from compression community
 * There is a lot of good stuff available on compression in general. Other influential people are Fabian Gleisen and Charles Bloom. 
 * Good blog post on arithmetic coders and rANS. https://kedartatwawadi.github.io/post--ANS/ 
 * The Alias Method for Sampling from Discrete Distribution http://pandasthumb.org/archives/2012/08/lab-notes-the-a.html
-
-Other interests of mine includes startups, open source, building remote teams, tech & science in general, chess, running marathons and mentoring. 
-
-Do you have overlapping experience or interests, don't hesitate to ping me here or https://www.linkedin.com/in/christianpersson-/?locale=en_US
-
-
-<a href="https://www.linkedin.com/in/christianpersson-/?locale=en_US" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="christian-persson" height="20" width="20"/></a>&nbsp;
-<img align="center" src="https://img.shields.io/github/stars/ajzo90?style=social" alt="christian-persson" height="20"/>
